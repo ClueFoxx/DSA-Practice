@@ -1,2 +1,2 @@
 # DSA-Practice
-This repository contains my solutions to LeetCode and GeeksforGeeks problems.  ## Platforms - LeetCode - GeeksforGeeks
+This repository contain my solutions to LeetCode and GeeksforGeeks problems.  ## Platforms - LeetCode - GeeksforGeeks
